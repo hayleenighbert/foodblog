@@ -1,16 +1,16 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
+Haylee Noelle:
+  name: Haylee Noelle
   picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  twitter: "@hayleenoelle_"
+  links:
+    - title: Instagram
+      url: https://instagram.com/hayhayoh
+      icon: fab fa-instagram-square
+
+Thao Le:
+  name: Thao Le
+  picture: /images/bio-photo.jpg
+  instagram: happylittleaccidents
