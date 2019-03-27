@@ -167,7 +167,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Improve comments in Sass partials and remove unused styles from Less versions.
 - Enable Disqus comments globally instead of by post. [#94](https://github.com/mmistakes/so-simple-theme/issues/94)
 - Improve Jekyll search feature by removing poorly performing input box overlay on mobile and touch devices [#88](https://github.com/mmistakes/so-simple-theme/issues/88.
-- Move search form to dedicated page `/search/` and link to top navigation.
+-Movesearch form to dedicated page `/search/` and link to top navigation.
 
 ### Added
 - Add post excerpts to index pages (`/blog`, `/articles`, and the home page) if set in a YAML Front Matter.
