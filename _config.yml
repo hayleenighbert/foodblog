@@ -19,7 +19,7 @@ title: "Food blog"
 description: "Food blog."
 baseurl: "/foodblog"
 url: "https://hayleenighbert.github.io/foodblog/"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "foodblogicon.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200

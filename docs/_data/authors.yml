@@ -1,15 +1,18 @@
 # Authors
 
-Billy Rick:
-  name: Billy Rick
+Haylee Noelle:
+  name: Haylee Noelle
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@hayleenoelle_"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/hayhayoh
+      icon: fab fa-instagram-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
+Thao Le:
+  name: Thao Le
   picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  links:
+    - title: Instagram
+      url: https://instagram.com/happylittleaccidents
+      icon: fab fa-instagram-square
