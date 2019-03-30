@@ -2,7 +2,7 @@
 
 Haylee Noelle:
   name: Haylee Noelle
-  picture: /images/bio-photo-2.jpg
+  picture: /assets/icon-haylee.png
   twitter: "@hayleenoelle_"
   links:
     - title: Instagram
@@ -11,7 +11,7 @@ Haylee Noelle:
 
 Thao Le:
   name: Thao Le
-  picture: /images/bio-photo.jpg
+  picture: /assets/icon-thao.png
   links:
     - title: Instagram
       url: https://instagram.com/happylittleaccidents

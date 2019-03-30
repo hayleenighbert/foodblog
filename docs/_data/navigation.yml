@@ -7,6 +7,6 @@
 - title: Tags
   url: /tags/
 - title: Recipes
-  url: /recipes/
+  # url: /recipes/
 - title: Search
   url: /search/
