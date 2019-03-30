@@ -3,14 +3,13 @@
 
 Haylee Noelle:
   name: Haylee Noelle
-  picture: /images/bio-photo.jpg
-  twitter: "@hayleenoelle_"
+  picture: /assets/icon-haylee.png
+  instagram: "@hayhayoh"
   links:
-    - title: Instagram
-      url: https://instagram.com/hayhayoh
-      icon: fab fa-instagram-square
+    - title: Web Site
+      url: http://www.hayleenighbert.com/
 
 Thao Le:
   name: Thao Le
-  picture: /images/bio-photo.jpg
+  picture: /assets/icon-thao.png
   instagram: happylittleaccidents

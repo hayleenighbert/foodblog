@@ -1,19 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/foodblog/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/foodblog/" rel="alternate" type="text/html" /><updated>2019-03-29T15:21:39-07:00</updated><id>http://localhost:4000/foodblog/</id><title type="html">Food blog</title><subtitle>Food blog.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Garlic Flatbread with Caramelized Pear and Balsamic Glaze</title><link href="http://localhost:4000/foodblog/docs/markup/garlic-flatbread/" rel="alternate" type="text/html" title="Garlic Flatbread with Caramelized Pear and Balsamic Glaze" /><published>2019-03-28T00:00:00-07:00</published><updated>2019-03-28T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/markup/garlic-flatbread</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/markup/garlic-flatbread/">&lt;p&gt;One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful, regardless of simplicity.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/foodblog/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/foodblog/" rel="alternate" type="text/html" /><updated>2019-03-29T17:54:30-07:00</updated><id>http://localhost:4000/foodblog/</id><title type="html">Food blog</title><subtitle>Food blog.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Thao’s awesome recipe</title><link href="http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/" rel="alternate" type="text/html" title="Thao's awesome recipe" /><published>2019-03-29T00:00:00-07:00</published><updated>2019-03-29T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
+  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
+  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
+  &lt;li&gt;1 cup sugar&lt;/li&gt;
+  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
+  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
+  &lt;li&gt;2 large eggs&lt;/li&gt;
+  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
+  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
+  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
+  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
+  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
+  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_3590.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Yumm&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Thao Le</name></author><category term="basil" /><category term="asparagus" /><summary type="html">It's really good.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_3590.jpg" /></entry><entry><title type="html">Mushroom Cassoulet</title><link href="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/" rel="alternate" type="text/html" title="Mushroom Cassoulet" /><published>2019-03-29T00:00:00-07:00</published><updated>2019-03-29T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
+  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
+  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
+  &lt;li&gt;1 cup sugar&lt;/li&gt;
+  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
+  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
+  &lt;li&gt;2 large eggs&lt;/li&gt;
+  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
+  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
+  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
+  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
+  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
+  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- ![image-center](http://localhost:4000/foodblog/assets/IMG_4929.jpg){: .align-center}
+ --&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4929.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Cooking in a dutch oven creates more depth to the dish.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Haylee Noelle</name></author><category term="easy" /><category term="rustic" /><category term="beans" /><category term="baking" /><category term="vegan" /><category term="slow-cooker" /><summary type="html">Rustic vegan dish</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4932.jpg" /></entry><entry><title type="html">Garlic Flatbread with Caramelized Pear and Balsamic Glaze</title><link href="http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/" rel="alternate" type="text/html" title="Garlic Flatbread with Caramelized Pear and Balsamic Glaze" /><published>2019-03-28T00:00:00-07:00</published><updated>2019-03-28T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/">&lt;p&gt;One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful.&lt;/p&gt;
 
 &lt;p&gt;The combination of pear, red onion, and balsamic reduction makes for a sweet and savory combination that’s out of this world.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4919.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
+  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
+  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
+  &lt;li&gt;1 cup sugar&lt;/li&gt;
+  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
+  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
+  &lt;li&gt;2 large eggs&lt;/li&gt;
+  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
+  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
+  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
+  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
+  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
+  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;figure class=&quot;align-center&quot;&gt;
   &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4919.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;Yumm&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="easy" /><category term="quick" /><category term="balsamic" /><category term="pear" /><category term="bake" /><summary type="html">One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful, regardless of simplicity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4919.jpg" /></entry><entry><title type="html">Garlic Flatbread with Caramelized Pear and Balsamic Glaze</title><link href="http://localhost:4000/foodblog/docs/markup/garlic-flatbread-copy/" rel="alternate" type="text/html" title="Garlic Flatbread with Caramelized Pear and Balsamic Glaze" /><published>2019-03-28T00:00:00-07:00</published><updated>2019-03-28T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/markup/garlic-flatbread%20copy</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/markup/garlic-flatbread-copy/">&lt;p&gt;One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful, regardless of simplicity.&lt;/p&gt;
-
-&lt;p&gt;The combination of pear, red onion, and balsamic reduction makes for a sweet and savory combination that’s out of this world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4919.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;align-center&quot;&gt;
-  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4919.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Yumm&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="easy" /><category term="quick" /><category term="balsamic" /><category term="pear" /><category term="bake" /><summary type="html">One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful, regardless of simplicity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4919.jpg" /></entry></feed>
+&lt;/figure&gt;</content><author><name>Haylee Noelle</name></author><category term="easy" /><category term="quick" /><category term="balsamic" /><category term="pear" /><category term="dairy-free" /><category term="baking" /><summary type="html">One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4928.jpg" /></entry></feed>

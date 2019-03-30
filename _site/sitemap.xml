@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/foodblog/docs/markup/garlic-flatbread-copy/</loc>
+<loc>http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/</loc>
 <lastmod>2019-03-28T14:19:55-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/foodblog/docs/markup/garlic-flatbread/</loc>
-<lastmod>2019-03-28T14:19:55-07:00</lastmod>
+<loc>http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/</loc>
+<lastmod>2019-03-29T14:19:55-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/</loc>
+<lastmod>2019-03-29T14:19:55-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/foodblog/categories/</loc>
