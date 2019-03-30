@@ -45,6 +45,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/assets/IMG_3590.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/assets/IMG_3590_thumb.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Yumm</figcaption>
 </figure> 
