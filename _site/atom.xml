@@ -1,78 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/foodblog/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/foodblog/" rel="alternate" type="text/html" /><updated>2019-03-29T19:44:06-07:00</updated><id>http://localhost:4000/foodblog/</id><title type="html">Food blog</title><subtitle>Food blog.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Thao’s awesome recipe</title><link href="http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/" rel="alternate" type="text/html" title="Thao's awesome recipe" /><published>2019-03-29T00:00:00-07:00</published><updated>2019-03-29T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/foodblog/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/foodblog/" rel="alternate" type="text/html" /><updated>2019-05-17T18:01:20-07:00</updated><id>http://localhost:4000/foodblog/</id><title type="html">Busy Bitches</title><subtitle>A food blog for busy bitches.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Mushroom Cassoulet</title><link href="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/" rel="alternate" type="text/html" title="Mushroom Cassoulet" /><published>2019-03-29T00:00:00-07:00</published><updated>2019-03-29T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/">&lt;p&gt;This dish is so comforting and easy to make. Even better if you can slow cook in a dutch oven for an hour or two (or more).&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
-  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
-  &lt;li&gt;1 cup sugar&lt;/li&gt;
-  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
-  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
-  &lt;li&gt;2 large eggs&lt;/li&gt;
-  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
-  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
+  &lt;li&gt;1 package Crimini Mushrooms&lt;/li&gt;
+  &lt;li&gt;1 can Northern White Beans&lt;/li&gt;
+  &lt;li&gt;1/2 large Sweet Onion, diced&lt;/li&gt;
+  &lt;li&gt;1/2 Roasted Red Pepper&lt;/li&gt;
+  &lt;li&gt;2 cloves Garlic&lt;/li&gt;
+  &lt;li&gt;1/2 Lemon&lt;/li&gt;
+  &lt;li&gt;1 tbsp Oregano&lt;/li&gt;
+  &lt;li&gt;Fresh parsely&lt;/li&gt;
+  &lt;li&gt;Fresh Rosemary tied, then removed after cooking&lt;/li&gt;
+  &lt;li&gt;1 tsp Cayenne Pepper&lt;/li&gt;
+  &lt;li&gt;1 tbsp Frank’s Red Hot Sauce&lt;/li&gt;
+  &lt;li&gt;1 tbsp Nutritional Yeast or some finely shredded Parmesan&lt;/li&gt;
+  &lt;li&gt;Salt and Pepper to taste&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
-  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
-  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
-  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
-  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
+  &lt;li&gt;Using a dutch oven, turn the heat to medium-high.&lt;/li&gt;
+  &lt;li&gt;Once the dutch oven is hot, add olive oil or comparable oil. Add the diced sweet onion and turn heat down to medium and cook until almost transparent. Add salt during the cooking process.&lt;/li&gt;
+  &lt;li&gt;While the onions are cooking, drain one can of Northern White Beans and rinse.&lt;/li&gt;
+  &lt;li&gt;After onions are almost cooked, add diced garlic and diced roasted red pepper. Add salt, cayenne pepper, and black pepper.&lt;/li&gt;
+  &lt;li&gt;After the vegetables are mostly cooked, add the white beans and half the chopped parsley. Cover and simmer for 15-20 minutes. Stir occasionally.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;figure class=&quot;align-center&quot;&gt;
-  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_3590_thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Yumm&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Thao Le</name></author><category term="basil" /><category term="asparagus" /><summary type="html">It's really good.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_3590.jpg" /></entry><entry><title type="html">Mushroom Cassoulet</title><link href="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/" rel="alternate" type="text/html" title="Mushroom Cassoulet" /><published>2019-03-29T00:00:00-07:00</published><updated>2019-03-29T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
-  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
-  &lt;li&gt;1 cup sugar&lt;/li&gt;
-  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
-  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
-  &lt;li&gt;2 large eggs&lt;/li&gt;
-  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
-  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
-  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
-  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
-  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
-  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Finish with the rest of the fresh parsely and arugula and squeeze 1/2 of lemon over dish. The beans go great with a side of garlic bread!&lt;/p&gt;
 
 &lt;!-- ![image-center](http://localhost:4000/foodblog/assets/IMG_4929.jpg){: .align-center}
  --&gt;
 
 &lt;figure class=&quot;align-center&quot;&gt;
-  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4929.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Cooking in a dutch oven creates more depth to the dish.&lt;/figcaption&gt;
+  &lt;!-- &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4929.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt; --&gt;
+  &lt;figcaption&gt;Tip: Cooking in a dutch oven creates more depth to the dish.&lt;/figcaption&gt;
 &lt;/figure&gt;</content><author><name>Haylee Noelle</name></author><category term="easy" /><category term="rustic" /><category term="beans" /><category term="baking" /><category term="vegan" /><category term="slow-cooker" /><summary type="html">Rustic vegan dish</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4932.jpg" /></entry><entry><title type="html">Garlic Flatbread with Caramelized Pear and Balsamic Glaze</title><link href="http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/" rel="alternate" type="text/html" title="Garlic Flatbread with Caramelized Pear and Balsamic Glaze" /><published>2019-03-28T00:00:00-07:00</published><updated>2019-03-28T14:19:55-07:00</updated><id>http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread</id><content type="html" xml:base="http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/">&lt;p&gt;One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful.&lt;/p&gt;
 
 &lt;p&gt;The combination of pear, red onion, and balsamic reduction makes for a sweet and savory combination that’s out of this world.&lt;/p&gt;
@@ -80,30 +43,26 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
-  &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1 cup butter, softened and cut to pieces&lt;/li&gt;
-  &lt;li&gt;1 cup sugar&lt;/li&gt;
-  &lt;li&gt;1 cup light brown sugar, packed&lt;/li&gt;
-  &lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
-  &lt;li&gt;2 large eggs&lt;/li&gt;
-  &lt;li&gt;2 cups semi-sweet chocolate chips&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon nutmeg (optional)&lt;/li&gt;
-  &lt;li&gt;1 cup chopped pecans or walnuts (optional)&lt;/li&gt;
+  &lt;li&gt;Garlic or traditional Naan bread (you can usually find it in the bakery)&lt;/li&gt;
+  &lt;li&gt;Pizza sauce (homemade or store-bought)&lt;/li&gt;
+  &lt;li&gt;Italian herbs like oregano, rosemary, thyme, parsley, and basil. Better if fresh!&lt;/li&gt;
+  &lt;li&gt;1 tbsp Nutritional Yeast, or grated parmesan if you aren’t Vegan/Lactose intolerant.&lt;/li&gt;
+  &lt;li&gt;1 Bartlett Pear, more ripe the better.&lt;/li&gt;
+  &lt;li&gt;1 cup of balsamic vinegar.&lt;/li&gt;
+  &lt;li&gt;1 tbsp brown sugar.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
-  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
-  &lt;li&gt;In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.&lt;/li&gt;
-  &lt;li&gt;Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.&lt;/li&gt;
-  &lt;li&gt;Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.&lt;/li&gt;
+  &lt;li&gt;Start the balsamic reduction. Put 1 cup of balsamic vinegar in a sauce pan and cook on medium-low. When it starts to thicken, add 1 tbsp brown sugar and a pinch of salt to the glaze. Stir constantly so it doesn’t burn and cook for about 10-15 minutes. Set aside glaze.&lt;/li&gt;
+  &lt;li&gt;Slice the bear into very thin slices. In the same sauce pan, slightly brown the pear slices in the residual balsamic glaze and add 1 tbsp olive oil. Cook until slightly browned and set aside.&lt;/li&gt;
+  &lt;li&gt;Get out the naan bread. Put as much pizza sauce on as you would like, leaving the edges dry so it can be like the “crust” of the pizza.&lt;/li&gt;
+  &lt;li&gt;Add the toppings (pear), herbs, and cheese if you desire. Then drizzle the balsamic glaze on top of the pizza.&lt;/li&gt;
+  &lt;li&gt;Bake the pizza for 12-14 minutes at 350 F.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;figure class=&quot;align-center&quot;&gt;
-  &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foodblog/assets/IMG_4919.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Yumm&lt;/figcaption&gt;
+  &lt;figcaption&gt;Tip: Add prosciutto for some extra yummm.&lt;/figcaption&gt;
 &lt;/figure&gt;</content><author><name>Haylee Noelle</name></author><category term="easy" /><category term="quick" /><category term="balsamic" /><category term="pear" /><category term="dairy-free" /><category term="baking" /><summary type="html">One of my favorite things to make for a snack when I’m in a hurry are flatbreads. You can throw 2-3 main ingredients together and make something really wonderful.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/foodblog/assets/IMG_4928.jpg" /></entry></feed>

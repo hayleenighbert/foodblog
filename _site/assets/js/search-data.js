@@ -5,12 +5,7 @@ var store = [{
         "url": "http://localhost:4000/foodblog/docs/vegan/easy/garlic-flatbread/"
       },{
         "title": "Mushroom Cassoulet",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint...","categories": ["docs","vegan"],
+        "excerpt":"This dish is so comforting and easy to make. Even better if you can slow cook in a dutch oven for an hour or two (or more). Ingredients 1 package Crimini Mushrooms 1 can Northern White Beans 1/2 large Sweet Onion, diced 1/2 Roasted Red Pepper 2 cloves Garlic 1/2...","categories": ["docs","vegan"],
         "tags": ["easy","rustic","beans","baking","vegan","slow-cooker"],
         "url": "http://localhost:4000/foodblog/docs/vegan/mushroom-cassoulet/"
-      },{
-        "title": "Thao's awesome recipe",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint...","categories": ["docs","vegetarian"],
-        "tags": ["basil","asparagus"],
-        "url": "http://localhost:4000/foodblog/docs/vegetarian/thaos-yummy-recipe/"
       }]

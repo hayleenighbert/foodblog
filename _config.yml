@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Busy Bitches"
-description: "A food blog for busy bitches."
+title: "Foxtrot Foodies"
+description: "Multicultural Cuisine"
 baseurl: "/foodblog"
 url: "https://hayleenighbert.github.io/foodblog/"
 logo: "foodblogicon.png"
